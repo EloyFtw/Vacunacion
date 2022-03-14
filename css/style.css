@@ -1,0 +1,83 @@
+.encabezado{
+float: right;
+}
+.menu {
+    float: right;
+}
+.title{
+    height: 80px;
+    border-bottom: 1px whitesmoke solid;
+}
+body{
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+}
+
+ .logo a{
+    float: left;
+    color: blue;
+}
+.btn {
+    float: right;
+    background-color: blue;
+    box-shadow: 2px 2px 5px #999;
+    
+}
+.btn a{
+    color: white;
+    margin-left: 5px;
+}
+a {
+color: grey;
+font-size: xx-large;
+text-decoration: none;
+margin-right: 15px;
+}
+.Cuerpo{
+    height:500px;
+    border-bottom: 1px whitesmoke solid;
+}
+
+.Cuerpo .Service{
+    width:49%;
+    height: 500px;
+    text-align: center;
+    float:left;
+}
+.triangulo_inf {
+    width: 0;
+    height: 0;
+    border-left: 60px solid transparent;
+    border-right: 60px solid transparent;
+    border-top: 70px solid rgb(212, 212, 212);
+}
+
+p{
+    color: rgb(84, 84, 87);
+    text-align: center;
+    vertical-align: text-top;  
+}
+h1, h2{
+    color: rgb(0, 0, 95);
+    font-size: 3em;
+}
+.Pie{
+    height: 200px;
+    width: 100%;
+background-image: url(../img/back.png);
+background-size: cover;
+}
+.imga{
+    padding: 5px 5px 110px 5px;
+    margin: 2px;
+    float: right;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+.pie2{
+    height: 200px;
+    background-image: url(../img/back2.png);
+    background-size:auto;
+
+}
